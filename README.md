@@ -1,4 +1,4 @@
-# EmoteBot
+# EmoteListBot
 Discord bot for creating a list of a guild's emotes.
 
 ## Requirements
